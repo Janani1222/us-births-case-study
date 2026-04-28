@@ -18,3 +18,8 @@ Tools Used
 
 Outcome
 This analysis helped uncover patterns in yearly birth distribution and seasonal variations, demonstrating practical skills in data preprocessing, visualization, and exploratory data analysis.
+
+Project Structure
+- US_births_2000-2014_SSA.ipynb → Main analysis notebook
+- US_births_2000-2014_SSA.csv → Dataset used for analysis
+- README.md → Project documentation
